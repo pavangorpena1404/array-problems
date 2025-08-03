@@ -1,5 +1,5 @@
 
-# Q) Write a Java program to insert an element (specific position) into an array.
+# Q) Write a python program to insert an element (specific position) into an array.
 
 
 number= [12,3,49,5,8,94,66,20]
